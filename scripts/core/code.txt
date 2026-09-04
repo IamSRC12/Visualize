@@ -1,0 +1,13 @@
+Last updated: 2026-08-14T15:00:42
+
+Files (7):
+  app.js
+  cleanup-ui.js
+  code.txt
+  collapsible-sections.js
+  intro-animation.js
+  particle-overlay.js
+  progress-bar.js
+
+Subdirectories (0):
+  (none)

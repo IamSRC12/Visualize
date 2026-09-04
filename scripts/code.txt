@@ -1,0 +1,21 @@
+Last updated: 2026-08-14T15:00:41
+
+Files (13):
+  SETUP_AND_RUN.bat
+  START.ps1
+  Setup_Shotcut_Library.ps1
+  ai-client.js
+  blackbox_ai.js
+  code.txt
+  docker-compose.yml
+  leonardo_ai.js
+  main.js
+  package-lock.json
+  package.json
+  preload.js
+  setup.bat
+
+Subdirectories (3):
+  core
+  export
+  visualizers
